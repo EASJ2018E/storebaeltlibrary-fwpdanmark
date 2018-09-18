@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BilletLibrary</name>
+    </assembly>
+    <members>
+        <member name="M:BilletLibrary.Bil.Pris(System.Boolean)">
+            <summary>
+            Retunerer pris som i denne er 240
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.Bil.Køretøjet">
+            <summary>
+            Returnerer køretøjtype som i denne er Bil
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.MC.Pris(System.Boolean)">
+            <summary>
+            Returnerer pris i dette tilfælde 125
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.MC.Køretøjet">
+            <summary>
+            Returnerer Køretøj i dette tilfæde "MC"
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

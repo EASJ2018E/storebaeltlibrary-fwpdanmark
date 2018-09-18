@@ -1,0 +1,12 @@
+C:\Users\Wulff\Google Drive\Programmering\source\storebaeltlibrary-fwpdanmark\StorebæltLibrary\bin\Debug\netcoreapp2.0\StorebæltLibrary.deps.json
+C:\Users\Wulff\Google Drive\Programmering\source\storebaeltlibrary-fwpdanmark\StorebæltLibrary\bin\Debug\netcoreapp2.0\StorebæltLibrary.dll
+C:\Users\Wulff\Google Drive\Programmering\source\storebaeltlibrary-fwpdanmark\StorebæltLibrary\bin\Debug\netcoreapp2.0\StorebæltLibrary.pdb
+C:\Users\Wulff\Google Drive\Programmering\source\storebaeltlibrary-fwpdanmark\StorebæltLibrary\bin\Debug\netcoreapp2.0\BilletLibrary.dll
+C:\Users\Wulff\Google Drive\Programmering\source\storebaeltlibrary-fwpdanmark\StorebæltLibrary\bin\Debug\netcoreapp2.0\BilletLibrary.xml
+C:\Users\Wulff\Google Drive\Programmering\source\storebaeltlibrary-fwpdanmark\StorebæltLibrary\obj\Debug\netcoreapp2.0\StorebæltLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Wulff\Google Drive\Programmering\source\storebaeltlibrary-fwpdanmark\StorebæltLibrary\obj\Debug\netcoreapp2.0\StorebæltLibrary.AssemblyInfoInputs.cache
+C:\Users\Wulff\Google Drive\Programmering\source\storebaeltlibrary-fwpdanmark\StorebæltLibrary\obj\Debug\netcoreapp2.0\StorebæltLibrary.AssemblyInfo.cs
+C:\Users\Wulff\Google Drive\Programmering\source\storebaeltlibrary-fwpdanmark\StorebæltLibrary\obj\Debug\netcoreapp2.0\StorebæltLibrary.csproj.CopyComplete
+C:\Users\Wulff\Google Drive\Programmering\source\storebaeltlibrary-fwpdanmark\StorebæltLibrary\obj\Debug\netcoreapp2.0\StorebæltLibrary.dll
+C:\Users\Wulff\Google Drive\Programmering\source\storebaeltlibrary-fwpdanmark\StorebæltLibrary\obj\Debug\netcoreapp2.0\StorebæltLibrary.pdb
+C:\Users\Wulff\Google Drive\Programmering\source\storebaeltlibrary-fwpdanmark\StorebæltLibrary\obj\Debug\netcoreapp2.0\StorebæltLibrary.csprojAssemblyReference.cache
